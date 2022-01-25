@@ -11,4 +11,6 @@ public class Main {
 		list.add("C");
 		list.set(1, "D");
 	}
+
+	// git連携初の変更&コミットテスト
 }
